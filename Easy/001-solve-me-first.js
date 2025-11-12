@@ -1,9 +1,6 @@
-
 // Problem: Solve Me First
 // Link: https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
 // Difficulty: Easy
-// Approach: Just return the sum of two integers.
-
 
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
